@@ -1,6 +1,7 @@
 # lnv_kbd
 
-![lnv_kbd](imgur.com image replace me!)
+![20230915090107](https://github.com/dh-itou3/keyboards/assets/36159060/cb29668e-a84a-44da-8f51-293552dc4c81)
+
 
 *A short description of the keyboard/project*
 
