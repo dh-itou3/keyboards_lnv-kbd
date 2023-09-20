@@ -1,0 +1,17 @@
+ID,指定子,パッケージ,名称,数量,供給業者、参考資料
+1,"C1,C2",チップコンデンサ0805_2012,22pF,2,https://www.aitendo.com/product/6984
+2,"C5,C11,C10",チップコンデンサ0805_2012,10uF,3,https://www.aitendo.com/product/6984
+3,C6,チップコンデンサ0805_2012,4.7uF,1,https://www.aitendo.com/product/6984
+4,C4,チップコンデンサ0805_2012,1uF,1,https://www.aitendo.com/product/6984
+5,"C3,C8,C7,C9",チップコンデンサ0805_2012,0.1uF,4,https://www.aitendo.com/product/6984
+6,"D2,D1,D3",RGBチップLED,SK6812MINI-E,3,https://akizukidenshi.com/catalog/g/gI-15478/
+7,F1,表面実装リセッタブルヒューズ0805_2012,0.5A,1,https://www.aitendo.com/product/17327
+8,"R3,R2",チップ抵抗0805_2012,22ohm,2,https://www.aitendo.com/product/9838
+9,"R1,R4",チップ抵抗0805_2012,10k,2,https://www.aitendo.com/product/9838
+10,Y1,表面実装型クリスタル ,16MHz,1,https://akizukidenshi.com/catalog/g/gP-02457/
+11,Y2,表面実装型クリスタル ,12MHz,1,https://akizukidenshi.com/catalog/g/gP-05225/
+12,U1,マイコン,ATmega32U4-AU,1,https://akizukidenshi.com/catalog/g/gI-09835/
+13,U2,USBハブコントローラ,SL2.1A,1,https://www.aitendo.com/product/17411
+14,SW1,表面実装タクトスイッチ,5.1x5.1,1,https://www.aitendo.com/product/19509
+15,J1,USBコネクタ,USB_Micro-B,1,https://www.aitendo.com/product/11934
+16,J2,FPCコネクタ,pitch1mm_28pin,1,https://www.aitendo.com/product/12273
