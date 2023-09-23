@@ -1,6 +1,6 @@
 # lnv_kbd
 
-![20230915090107](https://github.com/dh-itou3/keyboards/assets/36159060/cb29668e-a84a-44da-8f51-293552dc4c81)
+![20230915090107](https://github.com/dh-itou3/keyboards_lnv-kbd/assets/36159060/cb29668e-a84a-44da-8f51-293552dc4c81)
 
 これはLenovo社製キーボードです。専用PCBを内蔵して改造することにより、キー配列を自由にカスタマイズ可能にしました。例えば左下のFnキーとCtrlキーを入れ替えるなど。  
 This is a Lenovo keyboard. It is customize the key layout freely with a built-in original PCB. For example, exchange the Fn key and the Ctrl key in the lower left corner, etc.  
