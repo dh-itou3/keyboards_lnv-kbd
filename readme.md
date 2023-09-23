@@ -6,7 +6,7 @@
 This is a Lenovo keyboard. It is customize the key layout freely with a built-in original PCB. For example, exchange the Fn key and the Ctrl key in the lower left corner, etc.  
 
 * Keyboard Maintainer: [dh-itou3](https://github.com/dh-itou3)
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Availability: [web site](https://shk-maker.hatenablog.jp/entry/2023/09/23/221256)
 
 Make example for this keyboard (after setting up your build environment):
 
